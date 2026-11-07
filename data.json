@@ -1,0 +1,162 @@
+{
+    "personal": {
+        "name": "Jiya Sugnani",
+        "title": "BCA Student | Aspiring Web Developer",
+        "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600",
+        "introduction": "Hello! I am a passionate BCA first-year student interested in web development, programming and modern technologies. I enjoy learning new skills and creating creative digital projects.",
+        "careerGoal": "My goal is to become a skilled Full Stack Developer and build innovative web applications.",
+        "email": "jiya@example.com",
+        "phone": "+91 9876543210",
+        "resume": "resume.pdf"
+    },
+
+    "about": {
+        "title": "A Passionate Computer Science Student",
+        "description": "I am currently pursuing Bachelor of Computer Applications (BCA). I have a strong interest in programming, website development and technology. As a beginner in the IT field, I am continuously improving my technical knowledge through practical projects and learning new programming languages. I believe in creativity, consistency and continuous learning. My aim is to develop useful applications that solve real-world problems.",
+        "course": "Bachelor of Computer Applications (BCA)"
+    },
+
+    "skills": [
+        {
+            "name": "HTML5",
+            "icon": "bi bi-filetype-html",
+            "level": 90
+        },
+        {
+            "name": "CSS3",
+            "icon": "bi bi-filetype-css",
+            "level": 85
+        },
+        {
+            "name": "JavaScript",
+            "icon": "bi bi-filetype-js",
+            "level": 70
+        },
+        {
+            "name": "Bootstrap 5",
+            "icon": "bi bi-bootstrap",
+            "level": 80
+        },
+        {
+            "name": "C Programming",
+            "icon": "bi bi-code-square",
+            "level": 75
+        },
+        {
+            "name": "C++ Programming",
+            "icon": "bi bi-code-slash",
+            "level": 65
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "Personal Portfolio Website",
+            "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=700",
+            "description": "A responsive personal portfolio website to showcase my skills, education, projects and achievements.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Bootstrap",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "E-Commerce Website",
+            "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=700",
+            "description": "A modern shopping website with product cards, shopping cart and a responsive user interface.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Student Management System",
+            "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=700",
+            "description": "A beginner-friendly student management project designed to organize student information and academic records.",
+            "technologies": [
+                "C",
+                "C++",
+                "Programming"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Calculator Application",
+            "image": "https://images.unsplash.com/photo-1587145820266-a5951ee6f620?w=700",
+            "description": "A simple calculator application that performs basic arithmetic operations using an interactive interface.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        }
+    ],
+
+    "education": [
+        {
+            "course": "Bachelor of Computer Applications (BCA)",
+            "college": "kle bca pc jabin college",
+            "duration": "2026 - 2029",
+            "semester": "First Year | Semester 1",
+            "details": "Currently pursuing BCA with an interest in programming, computer fundamentals and web development."
+        },
+        {
+            "course": "Higher Secondary Education (12th)",
+            "college": "kle cc",
+            "duration": "2025 - 2026",
+            "semester": "Class 12",
+            "details": "Completed higher secondary education with 89%"
+        }
+    ],
+
+    "certifications": [
+        {
+            "name": "Introduction to HTML and CSS",
+            "issuer": "Online Learning Platform",
+            "year": "2026"
+        },
+        {
+            "name": "JavaScript for Beginners",
+            "issuer": "Online Learning Platform",
+            "year": "2026"
+        },
+        {
+            "name": "Introduction to C Programming",
+            "issuer": "Online Learning Platform",
+            "year": "2026"
+        },
+        {
+            "name": "Bootstrap 5 Fundamentals",
+            "issuer": "Online Learning Platform",
+            "year": "2026"
+        }
+    ],
+
+    "social": [
+        {
+            "name": "GitHub",
+            "icon": "bi bi-github",
+            "link": "https://github.com/"
+        },
+        {
+            "name": "LinkedIn",
+            "icon": "bi bi-linkedin",
+            "link": "https://www.linkedin.com/"
+        },
+        {
+            "name": "Instagram",
+            "icon": "bi bi-instagram",
+            "link": "https://www.instagram.com/"
+        },
+        {
+            "name": "Email",
+            "icon": "bi bi-envelope-fill",
+            "link": "mailto:jiya@example.com"
+        }
+    ]
+}
